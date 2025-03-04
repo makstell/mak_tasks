@@ -12,7 +12,7 @@ if 0 <= age <= 99:
         + "(100lat!) urodziny. "
     )
 elif age < 0:
-    print("Fajny żart, nie ma takich lat")
+    print("Fajny żart, nie ma takich lat!")
 elif 100 <= age <= 199:
     print("Gratulacje, przekroczyłeś pierwszą setkę!")
 else:
