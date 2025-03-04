@@ -14,6 +14,6 @@ if 0 <= age <= 99:
 elif age < 0:
     print("Fajny żart, nie ma takich lat")
 elif 100 <= age <= 199:
-    print("Gratulacje, przekroczyłeś pierwszą setkę")
+    print("Gratulacje, przekroczyłeś pierwszą setkę!")
 else:
     print("Kurcza, naprawde estesz Dunkanem Maklaudem)")
